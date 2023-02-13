@@ -1,5 +1,5 @@
 # Process Manager (PMan)
-MPan is a process manager written in C. It demonstrate the use of `fork()`, `exec()` and other system calls used to manage multi-process programs.
+MPan is a process manager written in C. It demonstrates the use of `fork()`, `exec()` and other system calls used to manage multi-process programs.
 
 ## To run PMan:
 1. **Compile PMan using the Makefile**
