@@ -1,8 +1,7 @@
 /* 
-    Jason Kepler - V00848837
-    Disklist - A FAT12 Disk Manager
-    CSC 360
-*/
+ * Jason Kepler
+ * Disklist - A FAT12 Disk Manager
+ */
 
 #include <stdio.h>
 #include <stdlib.h>

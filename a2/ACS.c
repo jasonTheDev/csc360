@@ -1,8 +1,7 @@
 /* 
-    Jason Kepler - V00848837
-    Airline Check-in System
-    CSC 360
-*/
+ * Jason Kepler
+ * Airline Check-in Simulator (ACS)
+ */
 
 #include <pthread.h>    //threads
 #include <stdio.h>      //fopen()

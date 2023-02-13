@@ -1,6 +1,6 @@
 /*
- * Jason Kepler - V00848837
- * 
+ * Jason Kepler
+ * Process Manager (PMan)
  */
 
 #include <string.h>

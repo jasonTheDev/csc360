@@ -1,8 +1,7 @@
 /* 
-    Jason Kepler - V00848837
-    Diskput - A FAT12 Disk Manager
-    CSC 360
-*/
+ * Jason Kepler
+ * Diskput - A FAT12 Disk Manager
+ */
 
 #include <stdio.h>
 #include <ctype.h>

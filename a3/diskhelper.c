@@ -1,8 +1,7 @@
 /* 
-    Jason Kepler - V00848837
-    Helper functions for Diskinfo, Disklist, Diskput and Diskget
-    CSC 360
-*/
+ * Jason Kepler
+ * Helper functions for Diskinfo, Disklist, Diskput and Diskget
+ */
 
 #include <stdio.h>
 #include <stdint.h>
