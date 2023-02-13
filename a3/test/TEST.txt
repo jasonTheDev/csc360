@@ -1,7 +1,0 @@
-This is a test text file.
-It is here to be used with diskput.
-After running the Makefile, you can run the following command:
-
-./diskput test/disk2.IMA test/TEST.txt
-
-The TEST.txt file will be added to the root dirctory of disk2.IMA.
