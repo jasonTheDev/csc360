@@ -1,5 +1,10 @@
 # csc360
-These are 3 projects that I created for my Operating Systems class. They required me to work with multi-process programs, multi-threaded programs and to manage FAT12 disk operations. There is an accompanying README in each assignment folder that explains more about the given program.
+These 3 projects were created for my Operating Systems class. They demonstrate the  following competencies:
+* multi-process programming
+* multi-threaded programming
+* working with a file system
+
+There is an accompanying README in each assignment folder that explains more about the given program.
 
 ## The 3 Programs
 ### A1 - A Process Manager (PMan)
